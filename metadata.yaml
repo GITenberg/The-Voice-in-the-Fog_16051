@@ -1,0 +1,27 @@
+_repo: The-Voice-in-the-Fog_16051
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacGrath, Harold
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '750'
+    url: http://www.gutenberg.org/2009/agents/750
+    wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
+description: ''
+gutenberg_issued: '2005-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories, American'
+title: The Voice in the Fog
+url: http://www.gutenberg.org/ebooks/16051
